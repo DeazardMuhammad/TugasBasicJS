@@ -1,9 +1,8 @@
-let suku1= 4
-let ratio = 3
-
+let a= 4
+let r = 3
+let n = 10
 let total = 0
-for (let total = 10 ; 0 < total.length; total++) {
-    total = 4[total]*3[total]        
-    
-}
-console.log("Total = "+total)
+
+let rumus = a*(r**(n-1))
+
+console.log("Total = "+rumus)
